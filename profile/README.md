@@ -1,6 +1,6 @@
 ## Owned by Metatrom AG 👋
 # Start reading here on the 
-[Web 4.x Wiki](https://github.com/web4x/codingWeb4/wiki/Web-4.x-Home)
+[Web 4.x Wiki](https://github.com/web4x/codingWeb4/wiki/Web4x-Home)
 
 <!--
 
